@@ -1,0 +1,9 @@
+/* using the "*" selector so that any/all elements
+will use the same values. */
+* {
+    color: #414141; 
+    background-color: #FFF; 
+    font-size: 20px;
+    font-family: "PT Serif", sans-serif;
+}
+
