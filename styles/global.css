@@ -25,3 +25,12 @@ hr.main-separator {
     
 }
 */
+
+img.testing {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: auto;
+    max-width: 100%;
+}
