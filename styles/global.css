@@ -1,7 +1,27 @@
-* {
-    color: #414141; 
-    background-color: #FFF; 
+body {
+    color: #515151; 
+    background-color: #EEEEEE; 
     font-size: 20px;
-    font-family: "PT Serif", sans-serif;
+    font-family: sans-serif;
 }
 
+.header {
+    text-align: center;
+}
+
+a {
+    color: #0000FF;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+nav {
+    text-align: center;
+}
+
+/*
+hr.main-separator {
+    
+}
+*/
