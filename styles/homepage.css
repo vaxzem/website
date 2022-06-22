@@ -1,0 +1,34 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+.container a {
+    text-align: center;
+    margin: 0;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bolder;
+    font-size: 20px;
+    text-decoration: none;
+    color: #000000;
+    background-color: #F5F5DC;
+    transition: .5s;
+}
+
+.container a:hover {
+    color: #000000;
+    background-color: #B6D0E2;
+}
+/*
+a:hover {
+    color: #0000FF;
+    background-color: beige;
+}
+*/
